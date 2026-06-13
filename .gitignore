@@ -1,5 +1,5 @@
 # Machine Learning Models and Large Files
-final_model.joblib
+# final_model.joblib
 # Optional: ignore all joblib files if you don't want to track any models/scalers
 # *.joblib
 
